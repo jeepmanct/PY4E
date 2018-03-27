@@ -1,2 +1,2 @@
 # PY4E
-Python COurse
+Python Course files for Coursera Python for Everybody
